@@ -2,6 +2,6 @@
 
 ## Vídeo da Conferêndia 
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/pd9lqT3memk&t/0.jpg)](https://www.youtube.com/watch?v=pd9lqT3memk&t)
 
-@[youtube](https://www.youtube.com/watch?v=pd9lqT3memk&t?fs=1&amp;hl=en_US&amp;rel=0)
 
