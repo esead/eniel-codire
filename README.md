@@ -2,6 +2,6 @@
 
 ## Vídeo da Conferêndia 
 
-<p><div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" id="youtubeplayer" type="text/html" width="640" height="390"
-  src="https://www.youtube.com/watch?v=pd9lqT3memk&t"
-  frameborder="0"/></div></p>
+
+@[youtube](https://www.youtube.com/watch?v=pd9lqT3memk&t?fs=1&amp;hl=en_US&amp;rel=0)
+
